@@ -1,6 +1,6 @@
 # The List of Things that Might be Cool
 
-For @akeshavan and @vsoch, because we need this. The list is organized into
+For [@akeshavan](https://www.github.com/akeshavan) and [@vsoch](https://www.github.com/vsoch), because we need this. The list is organized into
 (broad) categories (may not be necessary) and has additional evidence for coolness
 under each category point.
 
