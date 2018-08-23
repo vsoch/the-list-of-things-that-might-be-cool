@@ -19,7 +19,7 @@ under each category point.
 
 ## Web
 
-### Deployment
+### Realtime database platforms
 
  - [Deployd](http://docs.deployd.com/examples/)
  - [Hoodie](http://hood.ie/)
@@ -58,3 +58,4 @@ under each category point.
 ## Standards and Technologies
 
  - [Lazy Loading](https://calibreapp.com/blog/2018-08-16-native-lazy-load/)
+ - [Worker DOM](https://github.com/ampproject/worker-dom)
