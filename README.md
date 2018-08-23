@@ -15,3 +15,46 @@ under each category point.
 ### Medical Image Viewers
 
  - [AMI](https://github.com/FNNDSC/ami)
+
+
+## Web
+
+### Deployment
+
+ - [Deployd](http://docs.deployd.com/examples/)
+ - [Hoodie](http://hood.ie/)
+
+### Development
+
+ - [vue-cli](https://cli.vuejs.org/guide/) 
+ - [Firebase](https://console.firebase.google.com/u/0/) 
+    - super easy, realtime database, backend-as-a-service. 
+    - Works nicely with Vue. 
+    - handles user-management and authentication 
+ - [AWS lambda + API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-with-lambda-integration.html) 
+ - [OpenFaas](https://github.com/openfaas/faas) longer running functions as a service (self deployed) 
+ - [Electron + Vue](https://github.com/SimulatedGREG/electron-vue) for desktop apps
+ - [Aiohttp](https://aiohttp.readthedocs.io/en/stable/) python web server with websockets
+
+### CMS
+
+ - [Schema](https://www.sanity.io/docs/content-studio/the-schema) headless cms
+
+### Resources
+
+ - [undraw](https://undraw.co/illustrations)  illustrations for sites
+ - [noun project](https://thenounproject.com/)  $2/unit icons
+
+## Machine Learning
+
+ - [compromise](https://github.com/spencermountain/compromise) NLP client-side library
+ - [tensorflow.js](https://js.tensorflow.org/)
+ - [ml5js](https://ml5js.org/) run inferences in the browser
+
+## Mobile 
+
+ - [NativeScript + Vue](https://nativescript-vue.org/)  
+
+## Standards and Technologies
+
+ - [Lazy Loading](https://calibreapp.com/blog/2018-08-16-native-lazy-load/)
