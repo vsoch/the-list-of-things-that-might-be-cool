@@ -19,6 +19,17 @@ under each category point.
 
 ## Web
 
+### Visualization
+
+ - the [tutorial markdown](https://github.com/tholman/tutorial-markdown) framework to make interactive teaching stories in the browser, e.g., [generative artistry](https://generativeartistry.com/)
+ - [Chart Maker](http://chartmaker.visualisingdata.com/)
+ - [Two.js](https://two.js.org/examples/) for great 2D visualizations, likely a play on [Three.js](https://threejs.org/)
+
+### Optimization
+
+ - [Offscreen Canvas](https://developers.google.com/web/updates/2018/08/offscreen-canvas) rendering.
+
+
 ### Realtime database platforms
 
  - [Deployd](http://docs.deployd.com/examples/)
