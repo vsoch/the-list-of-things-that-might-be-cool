@@ -11,6 +11,10 @@ under each category point.
   - [Dataframe-js](https://gmousse.gitbooks.io/dataframe-js/#dataframe-js)
     - pandas-ish, can do joins and stuff :)
 
+### Scientific Computing
+
+  - [Iodide](https://github.com/iodide-project/iodide)
+    - like scipy!
 
 ### Medical Image Viewers
 
