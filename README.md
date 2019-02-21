@@ -51,6 +51,9 @@ under each category point.
  - [Electron + Vue](https://github.com/SimulatedGREG/electron-vue) for desktop apps
  - [Aiohttp](https://aiohttp.readthedocs.io/en/stable/) python web server with websockets
 
+### Components
+- [bit](https://bitsrc.io/) a way to share components between projects and install them via npm! See mine at https://bitsrc.io/akeshavan
+
 ### CMS
 
  - [Schema](https://www.sanity.io/docs/content-studio/the-schema) headless cms
